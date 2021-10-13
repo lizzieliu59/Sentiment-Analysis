@@ -43,6 +43,7 @@ kubectl apply -f sa-frontend-deployment.yaml
 kubectl create -f service-sa-frontend-lb.yaml 
 ```
 Screenshot of frontend service external IP:
+
 <img width="692" alt="Screen Shot 2021-10-13 at 12 04 34 AM" src="https://user-images.githubusercontent.com/53706052/137066127-c8d026ef-4281-4d97-89bd-c0c4f40bed44.png">
 
 

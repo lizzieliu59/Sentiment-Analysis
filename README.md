@@ -46,13 +46,17 @@ Screenshot of frontend service external IP:
 <img width="692" alt="Screen Shot 2021-10-13 at 12 04 34 AM" src="https://user-images.githubusercontent.com/53706052/137066127-c8d026ef-4281-4d97-89bd-c0c4f40bed44.png">
 
 
+
 Screenshot of GKE cluster:
 
 <img width="1440" alt="Screen Shot 2021-10-13 at 12 06 07 AM" src="https://user-images.githubusercontent.com/53706052/137066133-7488ea91-2e7a-46f0-83b0-08dfc9a54bd1.png">
 
 URLs of Docker images:
+
 Logic application: https://hub.docker.com/repository/docker/yueliu14848/sentiment-analysis-logic
+
 Web App application: https://hub.docker.com/repository/docker/yueliu14848/sentiment-analysis-web-app
+
 Frontend applicaiton: https://hub.docker.com/repository/docker/yueliu14848/sentiment-analysis-frontend
 
 

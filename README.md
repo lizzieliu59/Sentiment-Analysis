@@ -43,12 +43,12 @@ kubectl apply -f sa-frontend-deployment.yaml
 kubectl create -f service-sa-frontend-lb.yaml 
 ```
 Screenshot of frontend service external IP:
- 
-![image](https://user-images.githubusercontent.com/53706052/137065968-3d62bb7a-22dc-4773-bdfd-fda2999de016.png)
+<img width="692" alt="Screen Shot 2021-10-13 at 12 04 34 AM" src="https://user-images.githubusercontent.com/53706052/137066127-c8d026ef-4281-4d97-89bd-c0c4f40bed44.png">
+
 
 Screenshot of GKE cluster:
- 
-![image](https://user-images.githubusercontent.com/53706052/137065980-e92bf42d-1286-4aea-b9d3-3a6604d97605.png)
+
+<img width="1440" alt="Screen Shot 2021-10-13 at 12 06 07 AM" src="https://user-images.githubusercontent.com/53706052/137066133-7488ea91-2e7a-46f0-83b0-08dfc9a54bd1.png">
 
 URLs of Docker images:
 Logic application: https://hub.docker.com/repository/docker/yueliu14848/sentiment-analysis-logic
